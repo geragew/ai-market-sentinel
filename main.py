@@ -1,17 +1,17 @@
 import telebot # Certifique-se de ter dado pip install pyTelegramBotAPI
 
-# --- CONFIGURAÇÃO DE SEGURANÇA (GitHub Secrets) ---
+
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 bot = telebot.TeleBot(TOKEN)
 
-# Reutilizando sua classe monstro de IA
+
 class AIMarketAnalyzer:
-    # ... (mantenha todo o seu código da classe aqui dentro) ...
+
     def __init__(self, dados):
         self.df = pd.DataFrame(dados)
         self.df_filtrado = pd.DataFrame()
-    # (Copie os métodos filtrar_por_nome e classificar_ofertas exatamente como você fez)
+ 
 
 @bot.message_handler(commands=['start', 'oi'])
 def boas_vindas(message):
@@ -22,7 +22,7 @@ def processar_analise_automatica(message):
     termo = message.text
     bot.send_message(message.chat.id, f"⚙️ Analisando histórico para: {termo.upper()}...")
     
-    # Carrega os dados (o seu JSON)
+    # Carrega os dados 
     file_path = "market_data_history.json"
     if not os.path.exists(file_path):
         bot.send_message(message.chat.id, "❌ Banco de dados não encontrado!")
@@ -31,7 +31,7 @@ def processar_analise_automatica(message):
     with open(file_path, "r", encoding="utf-8") as f:
         dados = json.load(f)
 
-    # Roda sua IA
+    # Roda IA
     analyzer = AIMarketAnalyzer(dados)
     analyzer.filtrar_por_nome(termo)
     df_final = analyzer.classificar_ofertas()
