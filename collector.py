@@ -4,19 +4,19 @@ import json
 from datetime import datetime
 from playwright.sync_api import sync_playwright
 
-# AGORA É SEGURO: Ele pega o token das "Secret Variables" do GitHub
+
 TOKEN = os.getenv("TELEGRAM_TOKEN") 
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID") # Opcional para alertas automáticos
 
 class AIMarketAnalyzer:
-    # ... (mantenha o resto da sua classe igual)
+   
     def __init__(self, search_term="notebook gamer"):
         self.base_url = "https://www.amazon.com.br"
         self.search_term = search_term
         self.file_json = "market_data_history.json"
         self.data_raw = []
     
-    # ... (todo o seu código de scrape e process_and_save aqui)
+    
     def scrape_data(self, max_pages=1):
         print(f"🚀 Iniciando coleta para: {self.search_term}")
         
@@ -80,7 +80,7 @@ class AIMarketAnalyzer:
         df_new = pd.DataFrame(self.data_raw)
         df_new["preco"] = df_new["preco"].str.replace(r"[^\d]", "", regex=True).astype(float)
         
-        # Filtro Universal (Tira as capinhas)
+        # Filtro Universal 
         topo = df_new["preco"].max()
         if topo > 500:
             df_new = df_new[df_new["preco"] >= (topo * 0.4)]
