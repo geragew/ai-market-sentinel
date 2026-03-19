@@ -1,0 +1,58 @@
+[
+    {
+        "timestamp":"2026-03-18 22:29:57",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Plus (256 GB) — Verde (Recondicionado)",
+        "preco":5259.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Plus-256-Recondicionado\/dp\/B0FTMYMVQB\/ref=sr_1_16",
+        "tier":"S - Relíquia"
+    },
+    {
+        "timestamp":"2026-03-18 22:29:57",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro (256 GB) — Titânio natural (Recondicionado)",
+        "preco":6139.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-256-Recondicionado\/dp\/B0FTNX9PXK\/ref=sr_1_13",
+        "tier":"A - Justo"
+    },
+    {
+        "timestamp":"2026-03-18 22:29:57",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro (256 GB) — Titânio preto (Recondicionado)",
+        "preco":6139.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-256-Recondicionado\/dp\/B0FTNHK4G7\/ref=sr_1_15",
+        "tier":"A - Justo"
+    },
+    {
+        "timestamp":"2026-03-18 22:29:57",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro (256 GB) — Azul titânio (Recondicionado)",
+        "preco":6139.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-256-Recondicionado\/dp\/B0FTP23XWS\/ref=sr_1_17",
+        "tier":"A - Justo"
+    },
+    {
+        "timestamp":"2026-03-18 22:29:58",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro Max (256 GB) — Titânio Azul (Recondicionado)",
+        "preco":6289.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTNSN3LQ\/ref=sr_1_19",
+        "tier":"A - Justo"
+    },
+    {
+        "timestamp":"2026-03-18 22:29:58",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Plus (128 GB) — Amarelo",
+        "preco":8299.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-15-Plus-128\/dp\/B0CHXHJ5TX\/ref=sr_1_22",
+        "tier":"B - Normal"
+    },
+    {
+        "timestamp":"2026-03-18 22:29:58",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro (128 GB) — Titânio preto",
+        "preco":9299.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-15-Pro-128\/dp\/B0CHXRHSLC\/ref=sr_1_20",
+        "tier":"B - Normal"
+    }
+]
