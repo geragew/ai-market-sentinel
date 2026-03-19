@@ -1,0 +1,28 @@
+name: Coleta Diaria Amazon
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manual também
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Instalar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+      - name: Instalar dependencias
+        run: |
+          pip install pandas playwright thefuzz
+          playwright install chromium
+      - name: Rodar Coletor
+        run: python collector.py
+      - name: Salvar dados no GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add market_data_history.json
+          git commit -m "Atualização diária de preços"
+          git push
