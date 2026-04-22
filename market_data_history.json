@@ -366,13 +366,6 @@
     {
         "timestamp":0,
         "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 16 Plus (128 GB) – Preto",
-        "preco":8499.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-Plus-128\/dp\/B0DGLZC96M\/ref=sr_1_44"
-    },
-    {
-        "timestamp":0,
-        "termo_busca":"iphone 15",
         "produto":"Apple iPhone 12 (256 GB) - Azul",
         "preco":7306.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-12-256-GB-Azul\/dp\/B09B2T7GT4\/ref=sr_1_48"
@@ -581,262 +574,297 @@
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-512\/dp\/B0FQHCZ6K5\/ref=sr_1_38"
     },
     {
-        "timestamp":1,
+        "timestamp":0,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 16 (128 GB) – Rosa",
         "preco":5098.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-128-GB\/dp\/B0DJFT8HZC\/ref=sr_1_8"
     },
     {
-        "timestamp":1,
+        "timestamp":0,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 16 (128 GB) – Preto",
         "preco":5096.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-128-GB\/dp\/B0DJFTJ6LX\/ref=sr_1_12"
     },
     {
-        "timestamp":1,
+        "timestamp":0,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 15 Plus (256 GB) — Preto",
         "preco":9099.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-15-Plus-256\/dp\/B0CHXGBB4G\/ref=sr_1_19"
     },
     {
-        "timestamp":1,
+        "timestamp":0,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone Air (512 GB) - Dourado‑claro",
         "preco":8345.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Air-512-Dourado%E2%80%91claro\/dp\/B0FQJ6YGFR\/ref=sr_1_34"
     },
     {
-        "timestamp":1,
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 17 Pro (512 GB) - Azul intenso",
-        "preco":11699.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-Pro-512\/dp\/B0FQHPRVG5\/ref=sr_1_40"
-    },
-    {
-        "timestamp":1,
+        "timestamp":0,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 16 Plus (256 GB) – Ultramarino",
         "preco":8369.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Plus-256-Ultramarino\/dp\/B0DGM19BC2\/ref=sr_1_41"
     },
     {
-        "timestamp":1776569,
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 16 (128 GB) – Rosa",
-        "preco":5042.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-128-GB\/dp\/B0DJFT8HZC\/ref=sr_1_8"
-    },
-    {
-        "timestamp":1776569,
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 16 (128 GB) – Branco",
-        "preco":5098.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-128-GB\/dp\/B0DJFTCKNN\/ref=sr_1_11"
-    },
-    {
-        "timestamp":1776569,
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Plus (128 GB) — Verde (Recondicionado)",
-        "preco":5069.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Plus-128-Recondicionado\/dp\/B0FTMWSLY1\/ref=sr_1_12"
-    },
-    {
-        "timestamp":1776569,
+        "timestamp":1,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 17e de 256 GB — Rosa-pálido",
         "preco":5198.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17e-256-Rosa-p%C3%A1lido\/dp\/B0GQWNMTGQ\/ref=sr_1_16"
     },
     {
-        "timestamp":1776569,
+        "timestamp":1,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 17 (256 GB) - Preto",
         "preco":6498.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-256-GB\/dp\/B0FQHPGWXV\/ref=sr_1_20"
     },
     {
-        "timestamp":1776569,
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 14 (128 GB) – Estelar",
-        "preco":5199.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-14-128-GB\/dp\/B00CLP06OW\/ref=sr_1_28"
-    },
-    {
-        "timestamp":1776569,
+        "timestamp":1,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 16 (256 GB) – Preto (Recondicionado)",
         "preco":5249.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-256-Recondicionado\/dp\/B0FTMPZ2LQ\/ref=sr_1_31"
     },
     {
-        "timestamp":1776569,
+        "timestamp":1,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 17 Pro (256 GB) - Azul intenso",
         "preco":9499.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-Pro-256\/dp\/B0FQHXYK1Y\/ref=sr_1_32"
     },
     {
-        "timestamp":1776655674000,
+        "timestamp":1776655,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 17 (256 GB) - Preto",
         "preco":6299.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-256-GB\/dp\/B0FQHPGWXV\/ref=sr_1_17"
     },
     {
-        "timestamp":1776655674000,
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro Max (512 GB) — Titânio preto (Recondicionado)",
-        "preco":7119.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTNDZCJ5\/ref=sr_1_26"
-    },
-    {
-        "timestamp":1776655674000,
+        "timestamp":1776655,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone Air (256 GB) - Dourado‑claro",
         "preco":7218.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Air-256-Dourado%E2%80%91claro\/dp\/B0FQHGG21V\/ref=sr_1_32"
     },
     {
-        "timestamp":"2026-04-21 03:19:41",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro (256 GB) — Titânio preto (Recondicionado)",
-        "preco":5959.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-256-Recondicionado\/dp\/B0FTNHK4G7\/ref=sr_1_18"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:41",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro Max (256 GB) — Titânio preto (Recondicionado)",
-        "preco":5659.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-256\/dp\/B0FTNLR7VL\/ref=sr_1_20"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:41",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro Max (256 GB) — Titânio branco (Recondicionado)",
-        "preco":5659.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTP2988B\/ref=sr_1_21"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro Max (512 GB) — Titânio Azul (Recondicionado)",
-        "preco":7119.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0G45HHH3M\/ref=sr_1_22"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro Max (256 GB) — Titânio Azul (Recondicionado)",
-        "preco":6195.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTNSN3LQ\/ref=sr_1_24"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro (128 GB) — Titânio preto",
-        "preco":9299.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-15-Pro-128\/dp\/B0CHXRHSLC\/ref=sr_1_25"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Pro (256 GB) — Azul titânio (Recondicionado)",
-        "preco":5959.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-256-Recondicionado\/dp\/B0FTP23XWS\/ref=sr_1_27"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 15 Plus (128 GB) — Amarelo",
-        "preco":8299.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-15-Plus-128\/dp\/B0CHXHJ5TX\/ref=sr_1_28"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":1776741582000,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 15 Pro Max (512 GB) — Titânio preto (Recondicionado)",
         "preco":6529.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTNDZCJ5\/ref=sr_1_29"
     },
     {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":1776741582000,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 17 de 256 GB — Azul-névoa",
         "preco":6499.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-256-Azul-n%C3%A9voa\/dp\/B0GQWF5JD1\/ref=sr_1_32"
     },
     {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":1776741582000,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 17 (512 GB) - Branco",
         "preco":8549.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-512-GB\/dp\/B0FQH3W5RF\/ref=sr_1_37"
     },
     {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":1776741582000,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone Air (256 GB) - Dourado‑claro",
         "preco":7318.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Air-256-Dourado%E2%80%91claro\/dp\/B0FQHGG21V\/ref=sr_1_39"
     },
     {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 17 Pro Max (512 GB) - Azul intenso",
-        "preco":12599.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-512\/dp\/B0FQHCZ6K5\/ref=sr_1_42"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":1776741582000,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 17 Pro (512 GB) - Laranja cósmico",
         "preco":13399.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-Pro-512\/dp\/B0FQHG7GHG\/ref=sr_1_43"
     },
     {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 14 (512 GB) – Roxo",
-        "preco":7499.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-14-512-GB\/dp\/B0BZ5ZHKG2\/ref=sr_1_44"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 13 (128 GB) - Luz das estrelas",
-        "preco":7599.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-13-128-GB-das-estrelas\/dp\/B09T4YK6QK\/ref=sr_1_45"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":1776741582000,
         "termo_busca":"iphone 15",
         "produto":"Smartphone Samsung Galaxy S24 Ultra, Galaxy AI, Selfie de 12MP, Tela de 6.8\" 1-120Hz, 256GB, 12GB RAM - Titânio Preto",
         "preco":5399.0,
         "link":"https:\/\/www.amazon.com.br\/Smartphone-Samsung-Galaxy-Selfie-1-120Hz\/dp\/B0CQD9VK7X\/ref=sr_1_46"
     },
     {
-        "timestamp":"2026-04-21 03:19:42",
-        "termo_busca":"iphone 15",
-        "produto":"Apple iPhone 14 (512 GB) – Amarelo",
-        "preco":7499.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-14-512-GB\/dp\/B0C8ZKGRMJ\/ref=sr_1_49"
-    },
-    {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":1776741582000,
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 16 Plus (128 GB) – Preto",
         "preco":7649.0,
         "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-Plus-128\/dp\/B0DGLZC96M\/ref=sr_1_50"
     },
     {
-        "timestamp":"2026-04-21 03:19:42",
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 16 (128 GB) – Rosa",
+        "preco":5042.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-128-GB\/dp\/B0DJFT8HZC\/ref=sr_1_9"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 16 (256 GB) – Preto",
+        "preco":5297.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-256-GB\/dp\/B0DJFSKVZ5\/ref=sr_1_10"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 16 (128 GB) – Branco",
+        "preco":5098.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-128-GB\/dp\/B0DJFTCKNN\/ref=sr_1_11"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Plus (128 GB) — Verde (Recondicionado)",
+        "preco":5069.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Plus-128-Recondicionado\/dp\/B0FTMWSLY1\/ref=sr_1_13"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro Max (256 GB) — Titânio branco (Recondicionado)",
+        "preco":5659.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTP2988B\/ref=sr_1_14"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro (256 GB) — Titânio preto (Recondicionado)",
+        "preco":5959.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-256-Recondicionado\/dp\/B0FTNHK4G7\/ref=sr_1_15"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro Max (256 GB) — Titânio preto (Recondicionado)",
+        "preco":5659.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-256\/dp\/B0FTNLR7VL\/ref=sr_1_17"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro Max (256 GB) — Titânio Azul (Recondicionado)",
+        "preco":6195.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTNSN3LQ\/ref=sr_1_18"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro Max (512 GB) — Titânio Azul (Recondicionado)",
+        "preco":7119.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0G45HHH3M\/ref=sr_1_19"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 17 (256 GB) - Lavanda",
+        "preco":6299.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-256-GB\/dp\/B0FQHXKHG6\/ref=sr_1_21"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro (256 GB) — Azul titânio (Recondicionado)",
+        "preco":5959.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-256-Recondicionado\/dp\/B0FTP23XWS\/ref=sr_1_23"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Plus (128 GB) — Amarelo",
+        "preco":8299.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-15-Plus-128\/dp\/B0CHXHJ5TX\/ref=sr_1_24"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro (128 GB) — Titânio preto",
+        "preco":9299.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-15-Pro-128\/dp\/B0CHXRHSLC\/ref=sr_1_25"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 15 Pro Max (512 GB) — Titânio preto (Recondicionado)",
+        "preco":7119.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-Recondicionado\/dp\/B0FTNDZCJ5\/ref=sr_1_26"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 14 (128 GB) – Estelar",
+        "preco":5199.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-14-128-GB\/dp\/B00CLP06OW\/ref=sr_1_28"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone Air (256 GB) - Dourado‑claro",
+        "preco":7399.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Air-256-Dourado%E2%80%91claro\/dp\/B0FQHGG21V\/ref=sr_1_32"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 17 de 256 GB — Azul-névoa",
+        "preco":7302.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-256-Azul-n%C3%A9voa\/dp\/B0GQWF5JD1\/ref=sr_1_33"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 17 Pro Max (512 GB) - Azul intenso",
+        "preco":12599.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-Max-512\/dp\/B0FQHCZ6K5\/ref=sr_1_37"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 17 Pro (512 GB) - Azul intenso",
+        "preco":11699.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-17-Pro-512\/dp\/B0FQHPRVG5\/ref=sr_1_38"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 14 (512 GB) – Roxo",
+        "preco":7499.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-14-512-GB\/dp\/B0BZ5ZHKG2\/ref=sr_1_39"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 13 (128 GB) - Luz das estrelas",
+        "preco":7599.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-13-128-GB-das-estrelas\/dp\/B09T4YK6QK\/ref=sr_1_40"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 14 (512 GB) – Amarelo",
+        "preco":7499.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-14-512-GB\/dp\/B0C8ZKGRMJ\/ref=sr_1_45"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
+        "termo_busca":"iphone 15",
+        "produto":"Apple iPhone 16 Plus (128 GB) – Preto",
+        "preco":8499.0,
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-16-Plus-128\/dp\/B0DGLZC96M\/ref=sr_1_46"
+    },
+    {
+        "timestamp":"2026-04-22 03:18:10",
         "termo_busca":"iphone 15",
         "produto":"Apple iPhone 13 Pro (128 GB) - Verde-alpino",
         "preco":9176.0,
-        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-128-Verde-alpino\/dp\/B09V4T5YLG\/ref=sr_1_52"
+        "link":"https:\/\/www.amazon.com.br\/Apple-iPhone-Pro-128-Verde-alpino\/dp\/B09V4T5YLG\/ref=sr_1_48"
     }
 ]
